@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TestClass testClass = new TestClass();
+        TestClass2 testClass2 = new TestClass2();
     }
 
 
